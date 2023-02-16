@@ -1,0 +1,15 @@
+C:\Users\Andrey\Desktop\GeekBrains\30.01.23 семинар\Seminar\C#\sem1\dz6\bin\Debug\net6.0\dz6.exe
+C:\Users\Andrey\Desktop\GeekBrains\30.01.23 семинар\Seminar\C#\sem1\dz6\bin\Debug\net6.0\dz6.deps.json
+C:\Users\Andrey\Desktop\GeekBrains\30.01.23 семинар\Seminar\C#\sem1\dz6\bin\Debug\net6.0\dz6.runtimeconfig.json
+C:\Users\Andrey\Desktop\GeekBrains\30.01.23 семинар\Seminar\C#\sem1\dz6\bin\Debug\net6.0\dz6.dll
+C:\Users\Andrey\Desktop\GeekBrains\30.01.23 семинар\Seminar\C#\sem1\dz6\bin\Debug\net6.0\dz6.pdb
+C:\Users\Andrey\Desktop\GeekBrains\30.01.23 семинар\Seminar\C#\sem1\dz6\obj\Debug\net6.0\dz6.csproj.AssemblyReference.cache
+C:\Users\Andrey\Desktop\GeekBrains\30.01.23 семинар\Seminar\C#\sem1\dz6\obj\Debug\net6.0\dz6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrey\Desktop\GeekBrains\30.01.23 семинар\Seminar\C#\sem1\dz6\obj\Debug\net6.0\dz6.AssemblyInfoInputs.cache
+C:\Users\Andrey\Desktop\GeekBrains\30.01.23 семинар\Seminar\C#\sem1\dz6\obj\Debug\net6.0\dz6.AssemblyInfo.cs
+C:\Users\Andrey\Desktop\GeekBrains\30.01.23 семинар\Seminar\C#\sem1\dz6\obj\Debug\net6.0\dz6.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\Desktop\GeekBrains\30.01.23 семинар\Seminar\C#\sem1\dz6\obj\Debug\net6.0\dz6.dll
+C:\Users\Andrey\Desktop\GeekBrains\30.01.23 семинар\Seminar\C#\sem1\dz6\obj\Debug\net6.0\refint\dz6.dll
+C:\Users\Andrey\Desktop\GeekBrains\30.01.23 семинар\Seminar\C#\sem1\dz6\obj\Debug\net6.0\dz6.pdb
+C:\Users\Andrey\Desktop\GeekBrains\30.01.23 семинар\Seminar\C#\sem1\dz6\obj\Debug\net6.0\dz6.genruntimeconfig.cache
+C:\Users\Andrey\Desktop\GeekBrains\30.01.23 семинар\Seminar\C#\sem1\dz6\obj\Debug\net6.0\ref\dz6.dll
